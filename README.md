@@ -4,4 +4,4 @@ Akopyan David Armenakovich
 
 T.MO21
 
-Level python: begineer
+Level python: beginner
