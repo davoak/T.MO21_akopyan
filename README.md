@@ -5,4 +5,5 @@ Akopyan David Armenakovich
 T.MO21
 
 Level python: begineer
-    Вариант 15
+    Пр_2 вариант 15
+    Пр_3 - 1 вариант
